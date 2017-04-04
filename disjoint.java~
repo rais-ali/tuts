@@ -13,7 +13,7 @@ class disjoint {
 		for(int i=0;i<m;i++)
 			hash.add(sc.nextInt());
 		System.out.println("Enter elements of array 2");
-    /*    for(int i=0;i<n;i++)
+        for(int i=0;i<n;i++)
 		{
 			if(hash.contains(sc.nextInt()))
 			{
@@ -24,6 +24,5 @@ class disjoint {
 			System.out.println("Not Disjoint");
 		else
 			System.out.println(" Disjoint sets");
-*/
 	}
 }
