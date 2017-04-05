@@ -8,7 +8,7 @@ class disjoint {
 		Scanner sc=new Scanner(System.in);
 		int m=sc.nextInt(),n=sc.nextInt();
 		HashSet<Integer> hash=new HashSet<Integer>(m);
-		
+	/*	
 		int flag=0;
 		for(int i=0;i<m;i++)
 			hash.add(sc.nextInt());
